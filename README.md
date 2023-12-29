@@ -2,7 +2,7 @@
 
 
   <img src="https://github.com/kunaibox/League-Token-Reaper/assets/85061793/4f1ccb67-4a31-4e24-9b7a-83584c18eb95" alt="logo" width="200" height="auto" />
-  <h1>League Auto-Accept</h1>
+  <h1>League-Token-Reaper</h1>
   
   <p>
     A python project that removes equiped tokens on league of legends. (This shouldn't result in any punishment from riot but you should ask them before you use this to be safe)
